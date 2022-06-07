@@ -4,8 +4,8 @@
     "static/js/0.6b953229.chunk.js": "/telegram-react/static/js/0.6b953229.chunk.js",
     "static/js/0.6b953229.chunk.js.map": "/telegram-react/static/js/0.6b953229.chunk.js.map",
     "main.css": "/telegram-react/static/css/main.2d7149bd.chunk.css",
-    "main.js": "/telegram-react/static/js/main.e0d428c4.chunk.js",
-    "main.js.map": "/telegram-react/static/js/main.e0d428c4.chunk.js.map",
+    "main.js": "/telegram-react/static/js/main.1582a795.chunk.js",
+    "main.js.map": "/telegram-react/static/js/main.1582a795.chunk.js.map",
     "runtime-main.js": "/telegram-react/static/js/runtime-main.4c862bb2.js",
     "runtime-main.js.map": "/telegram-react/static/js/runtime-main.4c862bb2.js.map",
     "static/js/3.64f731dc.chunk.js": "/telegram-react/static/js/3.64f731dc.chunk.js",
@@ -22,7 +22,7 @@
     "static/js/7.0b7c7d94.chunk.js": "/telegram-react/static/js/7.0b7c7d94.chunk.js",
     "static/js/7.0b7c7d94.chunk.js.map": "/telegram-react/static/js/7.0b7c7d94.chunk.js.map",
     "index.html": "/telegram-react/index.html",
-    "precache-manifest.973625e4b5b476015b8f50dcd4a21297.js": "/telegram-react/precache-manifest.973625e4b5b476015b8f50dcd4a21297.js",
+    "precache-manifest.d990a4e57094761d213464e01d39bd63.js": "/telegram-react/precache-manifest.d990a4e57094761d213464e01d39bd63.js",
     "service-worker.js": "/telegram-react/service-worker.js",
     "static/css/0.52c23fd6.chunk.css.map": "/telegram-react/static/css/0.52c23fd6.chunk.css.map",
     "static/css/4.c916a6a7.chunk.css.map": "/telegram-react/static/css/4.c916a6a7.chunk.css.map",
@@ -33,7 +33,7 @@
     "static/js/4.02ddebf3.chunk.js.LICENSE.txt": "/telegram-react/static/js/4.02ddebf3.chunk.js.LICENSE.txt",
     "static/js/5.c7946f82.chunk.js.LICENSE.txt": "/telegram-react/static/js/5.c7946f82.chunk.js.LICENSE.txt",
     "static/js/6.f6176b5d.chunk.js.LICENSE.txt": "/telegram-react/static/js/6.f6176b5d.chunk.js.LICENSE.txt",
-    "static/js/main.e0d428c4.chunk.js.LICENSE.txt": "/telegram-react/static/js/main.e0d428c4.chunk.js.LICENSE.txt",
+    "static/js/main.1582a795.chunk.js.LICENSE.txt": "/telegram-react/static/js/main.1582a795.chunk.js.LICENSE.txt",
     "static/media/DialogDetails.css": "/telegram-react/static/media/camomile_blurred.bcf11246.jpg",
     "static/media/ForwardTargetChat.css": "/telegram-react/static/media/check.71da7469.svg",
     "static/media/telegram-logo.ac1331a4.svg": "/telegram-react/static/media/telegram-logo.ac1331a4.svg"
@@ -42,6 +42,6 @@
     "static/js/runtime-main.4c862bb2.js",
     "static/js/3.64f731dc.chunk.js",
     "static/css/main.2d7149bd.chunk.css",
-    "static/js/main.e0d428c4.chunk.js"
+    "static/js/main.1582a795.chunk.js"
   ]
 }
